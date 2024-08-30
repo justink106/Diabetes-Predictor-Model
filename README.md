@@ -1,1 +1,1 @@
-# Capstone-Two-Project---Diabetes-Predictor-Model
+# Diabetes-Predictor-Model
